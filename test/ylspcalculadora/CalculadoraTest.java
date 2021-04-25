@@ -49,8 +49,7 @@ public class CalculadoraTest {
         double expResult = 0.0;
         double result = instance.suma(num1, num2);
         assertEquals(expResult, result, 0.0);
-        // TODO review the generated test code and remove the default call to fail.
-        fail("The test case is a prototype.");
+        
     }
 
     /**
@@ -65,8 +64,7 @@ public class CalculadoraTest {
         double expResult = 0.0;
         double result = instance.resta(num1, num2);
         assertEquals(expResult, result, 0.0);
-        // TODO review the generated test code and remove the default call to fail.
-        fail("The test case is a prototype.");
+       
     }
 
     /**
@@ -81,8 +79,7 @@ public class CalculadoraTest {
         double expResult = 0.0;
         double result = instance.multiplicacion(num1, num2);
         assertEquals(expResult, result, 0.0);
-        // TODO review the generated test code and remove the default call to fail.
-        fail("The test case is a prototype.");
+        
     }
 
     /**
@@ -97,8 +94,7 @@ public class CalculadoraTest {
         double expResult = 0.0;
         double result = instance.division(num1, num2);
         assertEquals(expResult, result, 0.0);
-        // TODO review the generated test code and remove the default call to fail.
-        fail("The test case is a prototype.");
+        
     }
     
 }
